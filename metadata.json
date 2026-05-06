@@ -1,0 +1,6 @@
+{
+  "name": "Remontada Bookstore",
+  "description": "A premium online bookstore featuring a curated collection of rare finds and trending titles with secure Firebase authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Authentication", "Real-time Database"]
+}
